@@ -50,6 +50,7 @@
 /system/app/FBInstagram_spr/FBInstagram_spr.apk
 /system/app/SamsungSans/SamsungSans.apk
 /system/app/EmergencyModeService/EmergencyModeService.apk
+/system/app/ANTRadioService/ANTRadioService.apk
 /system/app/NfcNci/NfcNci.apk
 /system/app/SmartSwitchAgent/SmartSwitchAgent.apk
 /system/app/FBMessenger_spr/FBMessenger_spr.apk
@@ -184,7 +185,6 @@
 /system/priv-app/Telecom/Telecom.apk
 /system/priv-app/SoundAlive_31_M/SoundAlive_31_M.apk
 /system/priv-app/DiagMonAgent/DiagMonAgent.apk
-/system/priv-app/ANTRadioService/ANTRadioService.apk
 /system/priv-app/Activation/Activation.apk
 /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
 /system/priv-app/Tag/Tag.apk
